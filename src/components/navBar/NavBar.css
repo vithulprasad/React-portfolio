@@ -1,0 +1,56 @@
+@keyframes color-change-2x {
+    0% {
+      background: #fafbfb;
+    }
+    25% {
+        background: #e2afff;
+      }
+      50% {
+        background: #bb8bf5;
+      }
+     85% {
+        background: #5bc4f5;
+      }
+    100% {
+      background: #e2fdff;
+    }
+  }
+  
+  .animation-color-change-2x {
+    animation-name: color-change-2x;
+    animation-duration: 4s; /* You can adjust the duration as needed */
+    animation-timing-function: linear; /* You can change the timing function if desired */
+    animation-iteration-count: infinite; /* You can control the animation repetition */
+  }
+  
+
+  
+  #toggle {
+    width: 28px;
+    height: 30px;
+  
+  }
+  
+  #toggle div {
+    
+    height: 5px;
+
+    margin: 4px auto;
+    transition: all 0.3s;
+    backface-visibility: hidden;
+  }
+  
+  .toggle_one {
+    transform: rotate(45deg) translate(5px, 5px);
+  }
+  
+  .toggle_two{
+    opacity: 0;
+  }
+  
+  .toggle_three  {
+    transform: rotate(-45deg) translate(7px, -8px);
+  }
+  
+
+
