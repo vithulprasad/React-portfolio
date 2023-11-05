@@ -8,7 +8,7 @@ function AboutComponent() {
           <div className="w-2/3 h-[50px] flex justify-between text-xl lg:text-2xl" style={{ fontFamily: "myFont" }}>
             About Me <span className=""> Trainee In</span>
           </div>
-          <div className="w-2/3 h-[200px] lg:w-3/4 lg:h-[400px]"><img src="./brocamp logo.png" alt="Brocamp Logo" className="w-full h-full object-contain" /></div>
+          <div className="w-2/3 h-[200px] lg:w-3/4 lg:h-[400px]"><img src="/public/brocamp logo.png" alt="Brocamp Logo" className="w-full h-full object-contain" /></div>
           <div className="w-2/3 h-[200px] lg:w-3/4 lg:h-[400px] flex justify-start" style={{ fontFamily: "myFont" }}>
             <div className="w-2/3 h-full flex justify-center">
               <p className="text-base lg:text-xl">
@@ -84,7 +84,7 @@ function AboutComponent() {
             </samp>
           </div>
           <div className="w-2/3 h-[300px]  flex justify-center">
-            <img className="h-[300px] lg:h-[500px]" src="./Free Vector _ Code typing concept illustration.jpeg" alt="" />
+            <img className="h-[300px] lg:h-[500px]" src="/public//Free Vector _ Code typing concept illustration.jpeg" alt="" />
           </div>
         </div>
       </div>
