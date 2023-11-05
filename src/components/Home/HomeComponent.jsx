@@ -204,58 +204,8 @@ function HomeComponent() {
             </span>
           </div>{" "}
         </div>
-        <div className="headingOne w-full h-[10%] flex justify-center items-center">
-          <div className="letter-container">
-            <span
-              className="animationName text-blue-600"
-              style={{ animationDelay: "0s" }}
-            >
-              K
-            </span>
-            <span
-              className="animationName text-blue-500"
-              style={{ animationDelay: "0.1s" }}
-            >
-              O
-            </span>
-            <span
-              className="animationName text-blue-400"
-              style={{ animationDelay: "0.2s" }}
-            >
-              Z
-            </span>
-            <span
-              className="animationName text-blue-300"
-              style={{ animationDelay: "0.3s" }}
-            >
-              I
-            </span>
-            <span
-              className="animationName text-green-600"
-              style={{ animationDelay: "0.4s" }}
-            >
-              K
-            </span>
-            <span
-              className="animationName text-green-500"
-              style={{ animationDelay: "0.5s" }}
-            >
-              O
-            </span>
-            <span
-              className="animationName text-green-400"
-              style={{ animationDelay: "0.6s" }}
-            >
-              D
-            </span>
-            <span
-              className="animationName text-green-300"
-              style={{ animationDelay: "0.7s" }}
-            >
-              E
-            </span>
-          </div>
-        </div>
+       
+        
         <div className="w-full h-full flex justify-center mt-10">
              <div className="w-2/3 h-[30%]  ">
                 <p className="text-center">Hi my name is vidhul A self-taught MEAN Stack Developer with a strong desire to excel in a dynamic role within a reputable organization. 
