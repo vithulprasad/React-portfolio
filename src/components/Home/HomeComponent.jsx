@@ -266,7 +266,7 @@ and progress of a forward-thinking company.</p>
       </div>
       <div className="w-1/2 h-full flex justify-center  p-9">
         <div className="w-2/3 h-[100%] ">
-           <img className="mask-gradient-linear" src="/public/me.jpg" alt="" />
+           <img className="mask-gradient-linear" src="./me.jpg" alt="" />
         </div>
       </div>
     </div>
