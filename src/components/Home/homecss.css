@@ -27,7 +27,7 @@
 .headingOne .letter-container {
     display: flex;
     align-items: center;
-    transform: rotate(15deg) translateX(50px);
+   
 }
 
 /* Adjust the spacing between letters if needed */
