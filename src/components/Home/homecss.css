@@ -1,7 +1,4 @@
-@font-face {
-    font-family: "MyFont";
-    src: url(../../../Playtime.otf) format("opentype");
-}
+
 
 .animationName {
     display: inline-block;
