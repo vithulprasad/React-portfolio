@@ -69,7 +69,7 @@ function TouchComponent() {
                             <div className="h-full w-[40px] ">
                               <img src="https://i.pinimg.com/564x/b0/28/c2/b028c2e59043116dfc0da6ec6fd26d70.jpg" alt="" />
                             </div>
-                            <div>adfadsfadsfdsfd</div>
+                            <div><a className="underline pl-4 hover:text-blue-600"  href="https://www.linkedin.com/in/vidhul-prasad-597567276/"> Vidhul prasad</a></div>
                         </div>
                         <div className="w-full h-[25%] flex ">  
                              <div className="h-full w-[40px] ">
