@@ -18,7 +18,7 @@ function AboutComponent() {
           </div>
           <div className="w-2/3 h-[300px] lg:w-3/4 lg:h-[600px] flex justify-end" style={{ fontFamily: "myFont" }}>
             <div className="w-2/3 h-full">
-              <p className="text-base lg:text-xl">My main strength is that I am a self-taught developer, which makes me more confident in this field. I have a good knowledge of <span className="text-green-300 text-2xl lg:text-3xl">MERN stack</span>, as well as a strong understanding of <span className="text-orange-300 text-xl lg:text-2xl">GIT</span>, <span className="text-blue-300 text-base lg:text-xl">HOSTING A PROJECT</span>, and <span className="text-pink-300 text-2xl lg:text-3xl">FIGMA</span>. I always maintain coding standards and stay up-to-date with the latest technology. My favorite framework is <span className="text-red-600 text-2xl lg:text-3xl">NEXT.js</span>. I'm looking forward to gaining more knowledge and mastering everything.</p>
+              <p className="text-base lg:text-xl">My main strength is that I am a self-taught developer, which makes me more confident in this field. I have a good knowledge of <span className="text-green-300 text-2xl lg:text-3xl">MERN stack</span>, as well as a strong understanding of <span className="text-orange-300 text-xl lg:text-2xl">GIT</span>, <span className="text-blue-300 text-base lg:text-xl">HOSTING A PROJECT</span>, and <span className="text-pink-300 text-2xl lg:text-3xl">FIGMA</span>. I always maintain coding standards and stay up-to-date with the latest technology. My favorite framework is <span className="text-red-600 text-2xl lg:text-3xl">NEXT.js</span>. I m looking forward to gaining more knowledge and mastering everything.</p>
             </div>
           </div>
           <div className="w-2/3 h-[200px] lg:w-3/4 lg:h-[400px]" style={{ fontFamily: "myFont" }}>
@@ -68,6 +68,26 @@ function AboutComponent() {
                 <div className="w-full  bg-gray-200 rounded-full dark:bg-gray-700">
                   <div className="bg-green-600 text-xs font-medium text-blue-100 text-center p-0.5 leading-none rounded-full" style={{ width: `${78}%` }}>
                     {`${78}%`}
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div className="w-full h-10 flex justify-around">
+              <div className="w-1/3 flex justify-center text-black text-xl lg:text-2xl"><h1>next.js</h1></div>
+              <div className="w-2/3 h-10 pt-2">
+                <div className="w-full  bg-gray-200 rounded-full dark:bg-gray-700">
+                  <div className="bg-black text-xs font-medium text-blue-100 text-center p-0.5 leading-none rounded-full" style={{ width: `${78}%` }}>
+                    {`${68}%`}
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div className="w-full h-10 flex justify-around">
+              <div className="w-1/3 flex justify-center text-pink-600 text-xl lg:text-2xl"><h1>Graph QL</h1></div>
+              <div className="w-2/3 h-10 pt-2">
+                <div className="w-full  bg-gray-200 rounded-full dark:bg-gray-700">
+                  <div className="bg-pink-600 text-xs font-medium text-blue-100 text-center p-0.5 leading-none rounded-full" style={{ width: `${78}%` }}>
+                    {`${68}%`}
                   </div>
                 </div>
               </div>

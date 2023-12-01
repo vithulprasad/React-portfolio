@@ -18,7 +18,7 @@ function WorkComponent() {
                   *Email verification was added 
                   *Pages developed by Own thougt
                   </p>
-                   Git Hub Link To MY PROJECT <a className="text-blue-500 text-2xl underline" href="https://github.com/">https://github.com/</a>
+                   Git Hub Link To MY PROJECT <a className="text-blue-500 text-2xl underline" href="https://github.com/vithulprasad/Rent-A-Ride">https://github.com/</a>
                    <p>#Every day trying to implement lot of featurs and making it more user friendly</p>
                </div>
                <div className="backg  h-[400px]">
@@ -106,7 +106,7 @@ function WorkComponent() {
               <p>*Implemented lots of feturs to the website containing two moduls maitaning code formate</p>
               <p>*Implemented payment using Razorpay ServerSide rendering </p>
               <p>*Implemented email verification </p>
-              <p>*check out myProject in github <a href="https://github.com/">https://github.com/</a> </p>
+              <p>*check out myProject in github <a href="https://github.com/vithulprasad/Aranoze">https://github.com/</a> </p>
               <p>*Implemented handleBars </p>
               <p>*Implemented Ajax </p>
               <p>*Project hosted on the AWS security added </p>
